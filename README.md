@@ -1,7 +1,5 @@
 # Normalization and Data Models for ICC teams of World Cup 2019 Database
 
-
-ABSTRACT
 ICC Worldcup 2019 has been decided as our domain consisting of the following data sets
 
 ICC_CWC_19_teams
